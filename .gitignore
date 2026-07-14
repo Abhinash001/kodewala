@@ -1,0 +1,66 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.swp
+*.bak
+
+# Spring Boot
+application-local.yml
+application-local.properties
+
+# Environment Variables
+.env
+
+# Build
+build/
+
+# Dependency Cache
+.mvn/wrapper/maven-wrapper.jar
+
+# Test Reports
+surefire-reports/
+failsafe-reports/
+
+# Coverage
+coverage/
+jacoco.exec
+
+# Docker
+*.tar
+
+# Node Modules (if frontend exists)
+node_modules/
